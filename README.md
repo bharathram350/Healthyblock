@@ -1,4 +1,4 @@
-<h1>HealthChain</h1>
+<h1>HealthyBlock</h1>
 
 
 <h2>Description</h2>
@@ -69,20 +69,4 @@ https://github.com/prtk1910/HealthChain
 https://drive.google.com/open?id=1gFL8rnAxZl88_4f48v0MLML-K1ufH_2R
 
 
-<h2>Contact Info</h2>
 
-Pratik Mulchandani
-pratikm1910@gmail.com
-https://github.com/prtk1910
-
-Keval Nagda
-knagda008@gmail.com
-https://github.com/pumpkinman008
-
-Muhammad Umair Siddiqui
-umn2o2co2@gmail.com
-https://github.com/umn2o2co2
-
-Parth N. Shah
-shahp98@gmail.com
-https://github.com/shahp98
